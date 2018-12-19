@@ -3,4 +3,4 @@ jeljn;ljgaljljel
 add content
 123
 git push!!!!!!
-Create a new branch dev
+Creating a new branch is quick & simple.
