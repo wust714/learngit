@@ -1,2 +1,1 @@
-git is perfect!
-yes,it is!
+git is very good!
